@@ -1,3 +1,4 @@
+LocationID;Date;Time;;Parameter;Method;;Value;Unit;Comment
 IND00073;2020-11-30;23:00;0.3;pH;0;;7.9;---;Unknown
 IND00073;2020-11-30;23:00;0.3;O2-Dis;0;;7.1;mg/l;Unknown
 IND00073;2020-02-02;23:00;0.3;O2-Dis;0;;8.0;mg/l;Unknown
