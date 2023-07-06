@@ -1,3 +1,4 @@
+LocationID; Date; Time; ;Parameter; Method;; Unit; Value; Comment
 BGD00001;1979-03-22;09:00;0.0;pH;pH-POT-25;;7.4;---;Fair
 BGD00001;1979-11-14;10:40;1.0;O2-Dis;O2-ISE;;6.4;mg/l;Fair
 BGD00001;1980-01-04;10:15;1.0;O2-Dis;O2-ISE;;4.8;mg/l;Fair
